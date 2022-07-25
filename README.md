@@ -17,7 +17,7 @@ My last step to complete the automation was to create a stored procedure that wo
 
 The report will be set up to run at regular monthly intervals using pgAgent in pgAdmin and emailed to stakeholders for review.
 
-Please see the Business Report Summary file for a complete business report detailing the plan for the report and what it will accomplish. The Business Report Summary also includes the SQL code written to complete the automation. Also included is the SQL CODE file which includes only the SQL code used for this project.
+Please see the Business Report Summary file for a complete business report detailing the plan for the report and what it will accomplish. The Business Report Summary also includes the SQL code written to complete the automation.
 
 Thanks for reading! :)
 
