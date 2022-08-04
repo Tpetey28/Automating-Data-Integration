@@ -19,5 +19,5 @@ The report will be set up to run at regular monthly intervals using pgAgent in p
 
 Please see the Business Report Summary file for a complete business report detailing the plan for the report and what it will accomplish. The Business Report Summary also includes the SQL code written to complete the automation.
 
-Thanks for reading! :)
+
 
