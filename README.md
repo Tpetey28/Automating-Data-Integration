@@ -3,7 +3,7 @@
 This project was created as a final project for the Advanced Data Management course I took at WGU. For the assignment, I was given access to a sample database hosted 
 on a postgreSQL server. I was tasked with going through the tables in the database, and coming up with a real-world business report that could be created from the data sets. 
 
-The business report I created has the goal of optimizing inventory management, guiding marketing decisions, and ultimately increasing sales.It will do this by giving stakeholders a look into the frequency that each film is being rented. This report will enable the business to make informed decisions when it comes to replacing non-performing inventory. It will also help our marketing teams to decide which highly popular films to include in promotional campaigns to generate more sales. 
+The business report I created has the goal of optimizing inventory management, guiding marketing decisions, and ultimately increasing sales. It will do this by giving stakeholders a look into the frequency that each film is being rented. This report will enable the business to make informed decisions when it comes to replacing non-performing inventory. It will also help our marketing teams to decide which highly popular films to include in promotional campaigns to generate more sales. 
 
 To create the business report, I first created two empty tables to house data from the database. I then set up an extraction of data from 4 different tables (using inner-join statements) to populate the first "detailed" table. 
 
